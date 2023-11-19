@@ -1,6 +1,6 @@
 Curso Programación de Juegos en PureBasic con Código Fuente descargable desde nuestro GitHub. 
 
-Muestra distintos programas y como se solucionan diversos problemas de programación de vidojuegos.
+Muestra distintos programas y como se solucionan diversos problemas de programación de videojuegos.
 
 Visite esta página para ver el curso de manera ordenada y didáctica:
 https://profesorponce.blogspot.com/2023/11/curso-de-videojuegos-presentacion.html
