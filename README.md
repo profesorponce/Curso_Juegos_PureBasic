@@ -1,1 +1,13 @@
-Curso Programación de Juegos en PureBasic. Con Código Fuente descargable desde nuestro GitHub. Esta serie de programas forma parte del Curso de Programación de VideoJuegos en PureBasic. Muestra la secuenciainicial de como crear paso a paso un progrma de juegos usando como base de programción al compilador PureBasic. Por si usted no lo sabe, soy un programador e investigador que desarrolla soluciones de software de diversos tipos (banco de datos, bases de datos, lenguajes de programación, IDEs, analizadores sintáctivos, bots conversacionales, webs, etc. Hace unos años atrás, desarrollé un mini-curso de programación de videojuegos con herramientas que quedaron "viejas" rápidamente. Este curso se centraba en la creación de un sistema completo de soporte para videojuegos basados en sistemas D.O.S. Por temas de tiempo (la investigación en desarrollo de software consume muchisimo tiempo), el desarrollo de ese curso demoró y terminó quedando incompleto y obsoleto. Este es un curso nuevo, desde cero pero con herramientas modernas, en el que intentaré mostrarle a los jóvenes programadores cómo crear un sistema de soporte para sus desarrollos que además incluya diversos niveles de I.A.
+Curso Programación de Juegos en PureBasic con Código Fuente descargable desde nuestro GitHub. 
+
+Muestra distintos programas y como se solucionan diversos problemas de programación de vidojuegos.
+
+Visite esta página para ver el curso de manera ordenada y didáctica:
+https://profesorponce.blogspot.com/2023/11/curso-de-videojuegos-presentacion.html
+
+El curso y todos sus elementos (notas, codigo fuente, explicaciones , ejecutables y archivos requeridos por los programas de ejemplo) están ordneados en la página web para que los analice detenidamente y aproveche al máximo las lecciones.
+
+El curso se complementa con notas, codigo fuente y videos explicativos. Para ver los videos visite nuestra canal youtube.
+https://www.youtube.com/watch?v=Nna80oAoA5Q&list=PLAcWmK07DKM--mCFVpDAlIHcWrIDVBu4q&pp=gAQBiAQB
+
+
